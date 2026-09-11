@@ -92,8 +92,6 @@
 #define SDIO_D3_PIN          PC11
 
 #define GYRO_1_CLKIN_PIN     PE9    //TIM1_CH1
-// #define ADC_VBAT2_PIN        PB1
-// #define ADC_CURR2_PIN        PB0
 #define ADC_VBAT_PIN         PC0
 #define ADC_RSSI_PIN         PC5
 #define ADC_CURR_PIN         PC1
